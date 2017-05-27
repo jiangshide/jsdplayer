@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Apple/developer/android/jsdplayer/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Apple/developer/android/jsdplayer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Apple/developer/android/jsdplayer/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+        "source": "/Users/Apple/developer/android/jsdplayer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

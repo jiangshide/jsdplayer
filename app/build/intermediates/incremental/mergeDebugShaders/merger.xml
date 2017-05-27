@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Apple/developer/android/jsdplayer/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/Apple/developer/android/jsdplayer/app/src/debug/shaders"/></dataSet></merger>

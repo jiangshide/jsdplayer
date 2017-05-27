@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Apple/developer/android/jsdplayer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/eda241b77ccf71b4d02a835d1c7bbede/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Apple/developer/android/jsdplayer/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/eda241b77ccf71b4d02a835d1c7bbede/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Apple/developer/android/jsdplayer/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/eda241b77ccf71b4d02a835d1c7bbede/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Apple/developer/android/jsdplayer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/eda241b77ccf71b4d02a835d1c7bbede/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
